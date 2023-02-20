@@ -10,16 +10,10 @@
 
 ### Programming Languages
 #### 🤔 Somewhat familiar
-- C++
-- Python
-- Batch
-- Logo *(I've probably forgotten almost all of it tho)*
+C++ / Python / Batch
 
 #### 👀 Want to learn
-- Javascript
-  - Vue
-  - React
-- C#
+Javascript (Vue / React) / C#
 
 <!--
 **Azuelle/azuelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
