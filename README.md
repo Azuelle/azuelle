@@ -1,12 +1,12 @@
 ## Heyo! ✨Welcome
 
-- Call me **Azuelle** or just **TJK** (initials of my full name, can also omit the first **T**)
+- 👋 Call me **Azuelle** or just **TJK** (initials of my full name, can also omit the first **T**)
   - *I used to have an English name but I'd rather not use it now 😶*
 - She/Her 🏳️‍⚧️ tho still transitioning irl
 - 📚 Studying BEng at HKU, currently a Year 1 student
-- 💬 `zh-cn` (native) / `en` / *trying* to learn `yue` / really want to learn `fr` & `jp` 😔 (actually did learn *a tiiiiiny bit* on Duolingo but still 😢)
+- 💬 I speak `zh-cn` (native) & `en`. Also *trying* to learn `yue` (might take class next year), and really want to learn `fr` & `jp` 😔 (actually did learn *a tiiiiiny bit* on Duolingo but still 😢)
   - *also I often randomly stutter when speaking irl and I'm always very VERY sorry and frustrated when that happens 😖*
-- Contact me at tjk@live.cn! Or my QQ / WhatsApp / Telegram / etc. if you already have my contact. (I kinda hate WeChat tho.)
+- 📬 Contact me at tjk@live.cn or my QQ / WhatsApp / [Telegram](https://t.me/Azuelle) / Discord `Azuelle#0616` (not checked very often) etc. (preferably no WeChat tho.)
 
 #### GitHub Stats
 [![Azuelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=azuelle&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
