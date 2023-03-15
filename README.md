@@ -4,13 +4,16 @@
   - *I used to have an English name but I'd rather not use it now 😶*
 - She/Her 🏳️‍⚧️ tho still transitioning irl
 - 📚 Studying BEng at HKU, currently a Year 1 student
-- 💬 `zh-cn` (native) / `en` / *trying* to learn `yue` / really want to learn `fr` & `jp` 😔
+- 💬 `zh-cn` (native) / `en` / *trying* to learn `yue` / really want to learn `fr` & `jp` 😔 (actually did learn *a tiiiiiny bit* on Duolingo but still 😢)
   - *also I often randomly stutter when speaking irl and I'm always very VERY sorry and frustrated when that happens 😖*
-- Contact me at tjk@live.cn! Or my QQ / WhatsApp / Telegram / etc. if you already have my contact. *(I kinda hate WeChat tho)*
+- Contact me at tjk@live.cn! Or my QQ / WhatsApp / Telegram / etc. if you already have my contact. (I kinda hate WeChat tho.)
 
 ### Programming Languages
 #### 🤔 Somewhat familiar
-C++ / Python / Batch
+C++
+
+#### 😶 Not very skilled
+Python / Batch
 
 #### 👀 Want to learn
 Javascript (Vue / React) / C#
