@@ -16,14 +16,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🤔 **Somewhat familiar** — C++ / Python \
-😶 **Not very skilled** — Batch / Shell \
-👀 **Want to learn** — Javascript (Vue / React) / C# / Java 
+- 🤔 **Somewhat familiar** — C++ / Python
+- 😶 **Not very skilled** — Batch / Shell
+- 👀 **Want to learn** — Javascript (Vue / React) / C# / Java
 
 #### More aspects of programming I want to learn
 
-- Web development
-- CTF
+- ☁️ Web development
+- 🚩 CTF
 
 <!--
 **Azuelle/azuelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
