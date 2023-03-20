@@ -20,10 +20,12 @@
 - 😶 **Not very skilled** — Batch / Shell
 - 👀 **Want to learn** — Javascript (Vue / React) / C# / Java
 
-#### More aspects of programming I want to learn
+---
+### More Stuff I Want to Learn
 
 - ☁️ Web development
 - 🚩 CTF
+- 🎨 Drawing
 
 <!--
 **Azuelle/azuelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
