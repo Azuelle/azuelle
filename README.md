@@ -8,13 +8,14 @@
   - *also I often randomly stutter when speaking irl and I'm always very VERY sorry and frustrated when that happens 😖*
 - 📬 Contact me at tjk@live.cn or my QQ / WhatsApp / [Telegram](https://t.me/Azuelle) / Discord `Azuelle#0616` (not checked very often) etc. (preferably no WeChat tho.)
 
-#### GitHub Stats
-[![Azuelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=azuelle&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Azuelle's GitHub Stats - Dark](https://azuelle-github-readme-stats.vercel.app/api?username=azuelle&text_bold=false&show_icons=true&theme=dracula&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Azuelle's GitHub Stats - Light](https://azuelle-github-readme-stats.vercel.app/api?username=azuelle&text_bold=false&show_icons=true&theme=buefy&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ---
 ### Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs - Dark](https://azuelle-github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=dracula&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs - Light](https://azuelle-github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=buefy&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 - 🤔 **Somewhat familiar** — C++ / Python
 - 😶 **Not very skilled** — Batch / Shell
