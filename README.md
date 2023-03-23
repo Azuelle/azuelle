@@ -14,8 +14,8 @@
 ---
 ### Programming Languages
 
-[![Top Langs - Dark](https://azuelle-github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=dracula&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs - Light](https://azuelle-github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=buefy&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs - Dark](https://azuelle-github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=dracula&layout=compact&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs - Light](https://azuelle-github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=buefy&layout=compact&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 - 🤔 **Somewhat familiar** — C++ / Python
 - 😶 **Not very skilled** — Batch / Shell
