@@ -10,6 +10,8 @@
 
 [![Azuelle's GitHub Stats - Dark](https://azuelle-github-readme-stats.vercel.app/api?username=azuelle&text_bold=false&show_icons=true&theme=dracula&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Azuelle's GitHub Stats - Light](https://azuelle-github-readme-stats.vercel.app/api?username=azuelle&text_bold=false&show_icons=true&theme=buefy&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Azuelle's WakaTtime Stats - Dark](https://azuelle-github-readme-stats.vercel.app/api/wakatime?username=Azuelle&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Azuelle's WakaTtime Stats - Light](https://azuelle-github-readme-stats.vercel.app/api/wakatime?username=Azuelle&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ---
 ### Programming Languages
