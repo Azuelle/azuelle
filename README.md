@@ -11,8 +11,8 @@
 [![Azuelle's GitHub Stats - Dark](https://azuelle-github-readme-stats.vercel.app/api?username=azuelle&text_bold=false&show_icons=true&theme=dracula&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Azuelle's GitHub Stats - Light](https://azuelle-github-readme-stats.vercel.app/api?username=azuelle&text_bold=false&show_icons=true&theme=buefy&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Azuelle's WakaTtime Stats - Dark](https://azuelle-github-readme-stats.vercel.app/api/wakatime?username=@Azuelle&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Azuelle's WakaTtime Stats - Light](https://azuelle-github-readme-stats.vercel.app/api/wakatime?username=@Azuelle&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Azuelle's WakaTtime Stats - Dark](https://azuelle-github-readme-stats.vercel.app/api/wakatime?username=Azuelle&layout=compact&theme=dracula&range=all_time#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Azuelle's WakaTtime Stats - Light](https://azuelle-github-readme-stats.vercel.app/api/wakatime?username=Azuelle&layout=compact&theme=buefy&range=all_time#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs - Dark](https://azuelle-github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=dracula&layout=compact&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs - Light](https://azuelle-github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=buefy&layout=compact&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
