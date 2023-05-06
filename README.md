@@ -1,6 +1,6 @@
 ## Heyo! ✨Welcome
 
-- 👋 Call me **Azuelle** or just **TJK** (initials of my full name, can also omit the first **T**)
+- 👋 Call me **Azuelle** or just **TJK** (initials of my full name, can also omit the first **T**), **雫** (Shizuku) is also fine
   - *I used to have an English name but I'd rather not use it now 😶*
 - She/Her 🏳️‍⚧️ tho still transitioning irl
 - 📚 Studying BEng at HKU, currently a Year 1 student
