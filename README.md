@@ -9,8 +9,13 @@
 
 [![Azuelle's GitHub Stats - Dark](https://azuelle-github-readme-stats.vercel.app/api?username=azuelle&text_bold=false&show_icons=true&theme=dracula&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Azuelle's GitHub Stats - Light](https://azuelle-github-readme-stats.vercel.app/api?username=azuelle&text_bold=false&show_icons=true&theme=buefy&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Azuelle's WakaTtime Stats - Dark](https://azuelle-github-readme-stats.vercel.app/api/wakatime?username=Azuelle&layout=compact&theme=dracula&range=all_time#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Azuelle's WakaTtime Stats - Light](https://azuelle-github-readme-stats.vercel.app/api/wakatime?username=Azuelle&layout=compact&theme=buefy&range=all_time#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<details><summary><b>WakaTime Stats</b></summary>
+  
+[![Azuelle's WakaTime Stats - Dark](https://azuelle-github-readme-stats.vercel.app/api/wakatime?username=Azuelle&layout=compact&theme=dracula&range=all_time&hide_title=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Azuelle's WakaTime Stats - Light](https://azuelle-github-readme-stats.vercel.app/api/wakatime?username=Azuelle&layout=compact&theme=buefy&range=all_time&hide_title=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  
+</details>
 
 ---
 ### Programming Languages
