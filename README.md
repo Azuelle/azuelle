@@ -20,8 +20,8 @@
 ---
 ### Programming Languages
 
-[![Top Langs - Dark](https://azuelle-github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=dracula&layout=compact&count_private=true&exclude_repo=azuelle.github.io#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs - Light](https://azuelle-github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=buefy&layout=compact&count_private=true&exclude_repo=azuelle.github.io#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs - Dark](https://azuelle-github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=dracula&layout=compact&count_private=true&exclude_repo=azuelle.github.io,azuelle.github.io-source,TjkFredsBlog,vercel-github-readme-stats#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs - Light](https://azuelle-github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=buefy&layout=compact&count_private=true&exclude_repo=azuelle.github.io,azuelle.github.io-source,TjkFredsBlog,vercel-github-readme-stats#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 #### 🥰 Pretty fluent
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
