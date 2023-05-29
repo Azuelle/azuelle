@@ -4,7 +4,7 @@
   - *I used to have an English name but I'd rather not use it now 😶*
 - She/Her 🏳️‍⚧️ tho still transitioning irl
 - 📚 Studying BEng at HKU, currently a Year 1 student
-- 💬 I speak `zh-cn` (native) & `en`. Self-learning `jp` currently, might take class on basic `yue` next year and I really want to learn `fr` & `la` 😔 (actually did learn *a tiiiiiny bit* on Duolingo but still 😢)
+- 💬 I mainly use `zh-cn` (native) & `en`. Self-learning `jp` currently, might take class on basic `yue` next year and I really want to learn `fr` & `la` 😔 (actually did learn *a tiiiiiny bit* on Duolingo but still 😢)
   - *also I often randomly stutter when speaking irl and I'm always very VERY sorry and frustrated when that happens 😖*
 
 [![Azuelle's GitHub Stats - Dark](https://azuelle-github-readme-stats.vercel.app/api?username=azuelle&text_bold=false&show_icons=true&theme=dracula&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
