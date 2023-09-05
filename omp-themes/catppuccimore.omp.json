@@ -71,7 +71,7 @@
         {
           "foreground": "p:wight",
           "style": "plain",
-          "template": " \ufcb5 {{ .Name }} ",
+          "template": " \udb81\udfb7 {{ .Name }} ",
           "type": "shell"
         },
         {
@@ -80,8 +80,8 @@
             "always_enabled": true
           },
           "style": "plain",
-          "template": "{{ if gt .Code 0 }}\uf659{{ else }}\uf633{{ end }} ",
-          "type": "exit"
+          "template": "{{ if gt .Code 0 }}\udb80\udd5a{{ else }}\udb80\udd34{{ end }} ",
+          "type": "status"
         },
         {
           "foreground": "p:wight",
@@ -98,7 +98,7 @@
             "time_format": "15:04 Mon"
           },
           "style": "plain",
-          "template": "<p:blue>\uf64f </>{{ .CurrentDate | date .Format }}",
+          "template": "<p:blue>\udb80\udd50 </>{{ .CurrentDate | date .Format }}",
           "type": "time"
         }
       ],
