@@ -1,5 +1,8 @@
 ## Heyo! ✨Welcome
 
+*If you're here, you should know better than to spread my personal information to irrelevant people.* \
+*Don't do that. Please.*
+
 - 👋 Call me **Azuelle** or just **TJK** (initials of my full name, can also omit the first **T**), **雫** (Shizuku) is also fine
   - *I used to have an English name but I'd rather not use it now 😶 currently I'm thinking of a new name, maybe **Sierra**?*
 - She/Her 🏳️‍⚧️ still boymoding irl
