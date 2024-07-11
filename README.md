@@ -4,8 +4,8 @@
 *Don't do that. Please.*
 
 - 👋 Call me **Azuelle**, **Sierra** or just **TJK** (initials of my full name, can also omit the **T**), **雫** (Shizuku) is also fine
-- She/Her 🏳️‍⚧️ still boymoding irl
-- 📚 Studying computer science & linguistics at HKU, currently a Year 2 student
+- She/Her 🏳️‍⚧️ still boymoding irl most of the time
+- 📚 Studying computer science & linguistics at HKU
 - 💬 I mainly use `zh-cn` (native) & `en`. Self-learning `jp` currently, might take class on basic `yue` next year and I really want to learn `fr` & `la` 😔 (actually did learn *a tiiiiiny bit* on Duolingo but still 😢)
   - *also I often randomly stutter when speaking irl and I'm always very VERY sorry and frustrated when that happens 😖*
 
