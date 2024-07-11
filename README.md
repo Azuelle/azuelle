@@ -3,9 +3,7 @@
 *If you're here, you should know better than to spread my personal information to irrelevant people.* \
 *Don't do that. Please.*
 
-- 👋 Call me **Azuelle** or just **TJK** (initials of my full name, can also omit the first **T**), **雫** (Shizuku) is also fine
-  - *I used to have an English name but I'd rather not use it now 😶*
-  - tentative English name **Sierra**
+- 👋 Call me **Azuelle**, **Sierra** or just **TJK** (initials of my full name, can also omit the **T**), **雫** (Shizuku) is also fine
 - She/Her 🏳️‍⚧️ still boymoding irl
 - 📚 Studying computer science & linguistics at HKU, currently a Year 2 student
 - 💬 I mainly use `zh-cn` (native) & `en`. Self-learning `jp` currently, might take class on basic `yue` next year and I really want to learn `fr` & `la` 😔 (actually did learn *a tiiiiiny bit* on Duolingo but still 😢)
