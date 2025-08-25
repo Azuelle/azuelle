@@ -38,8 +38,8 @@
 ---
 ### More Stuff I Want to Learn
 
-- ☁️ Web development
-- 🚩 CTF
+- ☁️ Networking technologies
+- 🗜️ Compiler theory
 - 🎨 Drawing
 
 ---
